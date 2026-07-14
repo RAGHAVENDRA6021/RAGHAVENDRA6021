@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  💼 5+ years building scalable frontend apps & optimizing performance
+  💼 6 years building scalable frontend apps & optimizing performance
 </p>
 
 <h2 align="center">🛠️ Tech Stack</h2>
