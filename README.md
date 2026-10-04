@@ -31,17 +31,10 @@
 <h2 align="center">🔭 Featured Work</h2>
 
 <p align="center">
-  Built a highly-performant <a href="#"><b>Movie Discovery Platform</b></a> featuring multi-tiered pagination, custom search indices, and protected routing using React, TypeScript, TanStack Query, the TMDB API, and Tailwind CSS.
+  Built a highly-performant <b>Movie Discovery Platform</b> featuring multi-tiered pagination, custom search indices, and protected routing using React, TypeScript, TanStack Query, the TMDB API, and Tailwind CSS.
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAGHAVENDRA6021&show_icons=true&theme=radical&hide_border=true" alt="Raghavendra's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGHAVENDRA6021&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<h2 align="center">🛠️️ Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vue,ts,js,redux,nodejs,vite,webpack,graphql,jest,git,html,css,tailwind,bootstrap" />
@@ -81,3 +74,4 @@
 
 </body>
 </html>
+
